@@ -4,7 +4,7 @@
 
 import numpy
 from tkinter import *
-from tkinter import Tk, Button, Label, PhotoImage, ttk, messagebox, filedialog
+from tkinter import filedialog
 import tkinter
 from PIL import Image
 import math
