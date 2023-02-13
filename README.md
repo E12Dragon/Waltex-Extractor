@@ -12,5 +12,5 @@ pip install -r requirements.txt
 - Extracted waltex is dumped in a folder called "out" which is created in the same directory as the script.
 
 # Credits
-- A big thanks to [campbellsonic](https://github.com/campbellsonic) and [ego-lay-atman-bay](https://github.com/ego-lay-atman-bay) for doing the hard working and creating a script the processes waltex files. 
+- A big thanks to [campbellsonic](https://github.com/campbellsonic) and [ego-lay-atman-bay](https://github.com/ego-lay-atman-bay) for doing the hard working and creating a script that processes waltex files. 
 - Thanks to [LolHacksRule](https://github.com/LolHacksRule) for their noesis script that reads important bytes of waltex files and the "width hack".
