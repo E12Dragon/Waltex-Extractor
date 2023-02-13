@@ -9,7 +9,6 @@ import tkinter
 from PIL import Image
 import math
 import os
-# import json
 
 def WaltexImage(path : str, size : tuple = (1024, 1024), colorspace : str = 'rgba4444', premultiplyAlpha : bool = False, dePremultiplyAlpha : bool = False, endian : str = 'little', offset : int = 0) -> Image.Image:
     """Get image from `waltex` file
