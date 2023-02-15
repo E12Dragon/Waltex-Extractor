@@ -3,8 +3,7 @@
 # Thanks to @LolHacksRule for the "weird widths" hack.
 
 import numpy
-from tkinter import *
-from tkinter import filedialog
+from tkinter import Tk, filedialog
 import tkinter
 from PIL import Image
 import math
