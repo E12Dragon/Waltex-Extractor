@@ -1,6 +1,8 @@
 # Waltex-Extractor
 Python script to convert waltex files to png files from the Where's My Water? series of games.
 
+Waltex-Extractor is now archived as it has been made redundant by [WMW-Extractor](https://github.com/E12Dragon/WMW-Extractor). 
+
 # Requirments
 Waltex-Extractor needs Pillow and Numpy installed. If you do not already have these libraries installed, you can use the below command.
 ```
